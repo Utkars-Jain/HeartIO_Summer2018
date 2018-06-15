@@ -1,0 +1,11 @@
+AWS_UPLOAD_BUCKET = "dashboard-file-upload"
+
+AWS_UPLOAD_USERNAME = "blueogre3-upload"
+
+AWS_UPLOAD_GROUP = "heartio_group"
+
+AWS_UPLOAD_REGION = 'us-east-1'
+
+AWS_UPLOAD_ACCESS_KEY_ID = "AKIAIPOIGA7CWTZFWROQ"
+
+AWS_UPLOAD_SECRET_KEY = "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"
